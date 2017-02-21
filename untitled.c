@@ -11,8 +11,11 @@ int main(int argc, char const *argv[])
 		printf("oh no.\n");
 	}
 
+<<<<<<< HEAD
 	printf("how are you?\n");
 	printf("merge this\n");
 
+=======
+>>>>>>> parent of 0595a20... added how are you
 	return 0;
 }
