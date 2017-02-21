@@ -11,5 +11,7 @@ int main(int argc, char const *argv[])
 		printf("oh no.\n");
 	}
 
+	printf("how are you?\n");
+
 	return 0;
 }
