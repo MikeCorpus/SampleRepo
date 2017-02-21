@@ -12,6 +12,7 @@ int main(int argc, char const *argv[])
 	}
 
 	printf("how are you?\n");
+	printf("merge this\n");
 
 	return 0;
 }
